@@ -1,4 +1,4 @@
-# Assignment 01
+# Assignment 02
 ## Problem Statements
 In this assignment you have to learn about deployment strategies: - Recreate deployment - Rolling deployment - Blue-green deployment - A/B deployment - Canary deployment
 
