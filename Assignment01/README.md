@@ -1,16 +1,16 @@
-#Assignment-01
-##load Balancer & Auto Scaling Group
--infrastructure diagram
+# Assignment-01
+## load Balancer & Auto Scaling Group
+- infrastructure diagram
 ![image](https://github.com/user-attachments/assets/8141cd79-c508-42e3-8f51-d0ae6abdf5e3)
 
--VPC: Network for all resources.
+- VPC: Network for all resources.
 ![image](https://github.com/user-attachments/assets/5708bedc-4115-4130-88ca-22215582b93c)
 
 ![image](https://github.com/user-attachments/assets/b47adb27-5ee1-465e-b908-de0087b482bc)
 ![image](https://github.com/user-attachments/assets/1cca639d-755b-44a8-b0d0-54326a06056c)
 ![image](https://github.com/user-attachments/assets/019dbcc3-63ed-4cef-a4e1-91744cbbfb5a)
 
--Instance
+- Instance
 ![image](https://github.com/user-attachments/assets/154bdfd5-ac9d-49a7-bed4-4ad0cb25afc0)
 ![image](https://github.com/user-attachments/assets/c091af0d-4fdb-4e11-b3dc-0e7a183344f7)
 ![image](https://github.com/user-attachments/assets/d3453c47-7426-4273-81d2-01806eea3e7e)
